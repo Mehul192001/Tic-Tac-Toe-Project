@@ -1,0 +1,20 @@
+                           ____________________________
+                          |    Project submitted by.   |
+                          |                            |
+                          |  Mehul Pradhan   (roll 11) |
+                          |  Bharat Rajpal   (roll 7)  |
+                          |  Shubham Pandey  (roll 10) |
+                           ----------------------------
+ 
+
+ For the tic tac toe game:
+
+* There is an option menu in the menubar which contain restart button through which users
+  can restart the game at any time.
+
+* If “x” wins in any valid directions, a window will be prompted and shows “x” wins!”.
+
+* If  “o” wins in any valid direction, a window will be prompted and shows “o wins!”.
+
+* If nobody wins/there is a tie, then a window will be prompted and will say “nobody wins,
+  it’s a tie!”
